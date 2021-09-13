@@ -19,7 +19,7 @@ async function seedDB() {
 
   const shoesImgs = [
     "https://media.endclothing.com/media/f_auto,w_600,h_600/prodmedia/media/catalog/product/2/6/26-03-2021_MB_FW4862_1_1.jpg",
-    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vans.co.uk%2Fshop%2Fen-gb%2Fvans-gb%2Fmen%2Fclassic-slip-on-shoes-vn000eyebka&psig=AOvVaw02Fu3HzGJc2CITutbJ1DPK&ust=1628321336561000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiC-ujvm_ICFQAAAAAdAAAAABAE",
+    "https://images.vans.com/is/image/VansEU/VN000EYEBKA-HERO",
     "https://media.titus.de/media/image/1a/e6/e6/DC-Shoes-Alle-Schuhe-Tonik-black-black-Vorderansicht_600x600.jpg",
     "https://lotnikshop.pl/userdata/public/gfx/1556/pol_pm_BUTY-MESKIE-LAKAI-FW20-CAMBRIDGE-NAVY-WHITE-SUEDE-23488_4.jpg",
     "https://images.vans.com/is/image/Vans/D3HY28-HERO?$583x583$",
